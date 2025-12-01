@@ -1,0 +1,4 @@
+Room ID,Type,Price,Status,Inventory Items
+101,room1,100,Available,"Towels, Minibar"
+102,room2,200,Available,"Towels, Minibar, TV"
+103,room3,300,Available,"Towels, Minibar, Jacuzzi"
